@@ -3,6 +3,11 @@
 ---
 ### Education
 
+B.S. UC Santa Barbara, 1999
+M.Sc. Catholic University of Chile, 2003
+PhD.  Columbia University, 2009
+
+[Academic CV]()
 
 ---
 ### Work Experience
