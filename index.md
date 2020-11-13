@@ -16,6 +16,9 @@
 ---
 ### Recent projects
 
+1. [k_eff in the sea ice zone](https://github.com/bloose/keff_in_SeaIceZone)
+2. 
+
 
 ---
 
