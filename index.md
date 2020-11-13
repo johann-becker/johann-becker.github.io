@@ -17,7 +17,7 @@
 ### Recent projects
 
 1. [k_eff in the sea ice zone](https://github.com/bloose/keff_in_SeaIceZone)
-2. 
+2. [Backfit algorithm in Python](https://github.com/bloose/Python_GAM_Backfit)
 
 
 ---
