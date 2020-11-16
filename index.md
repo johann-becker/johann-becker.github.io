@@ -8,7 +8,7 @@
 - MS University of Rhode Island (In Progress): Ocean Engineering
 	- Focus on Ocean Instrumentation
 
-[Academic CV]("/pdf/Academic_CV.pdf?raw=true")
+[Academic CV]("/pdf/Academic_CV.pdf)
 
 ---
 ### Work Experience
@@ -23,7 +23,7 @@
 	- Research Assistant: Dr. Jacqueline Webb
 	- Research Assistant: Dr. Bradley Wetherbee
 - National Ocean and Atmospheric Administration (NOAA) Pearl Harbor, HI
-	- Hollings Intern
+	- Hawaiian Monk Seal Research Program: Hollings Scholar
 
 ---
 ### Current projects
