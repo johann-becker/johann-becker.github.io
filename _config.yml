@@ -1,12 +1,9 @@
-title: Brice Loose # your name (or website title) here
-logo: "/images/headshot.JPG?raw=true" # your photo (or logo) here
+title: Johann Becker # your name (or website title) here
+logo: "/images/scuba.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Associate Professor
-  URI <a href="https://web.uri.edu/gso/"> Graduate School of Oceanography</a>
+  Masters Student
   URI <a href="https://web.uri.edu/engineering/about/ocean-engineering/">Department of Ocean Engineering</a>
   Narragansett, RI 02882
-  <br><br>
-  <a href="http://geotracerkitchen.org">Geotracerkitchen.org></a>
   <br><br>
   
 theme: jekyll-theme-minimal

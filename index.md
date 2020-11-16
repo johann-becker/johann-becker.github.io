@@ -3,21 +3,21 @@
 ---
 ### Education
 
-1. B.S. UC Santa Barbara, 1999
-2. M.Sc. Catholic University of Chile, 2003
-3. PhD.  Columbia University, 2009
+- BS University of Rhode Island, 2018: Ocean Engineering
+- BS University of Rhode Island 2018: Marine Biology
+- MS University of Rhode Island (In Progress): Ocean Engineering
+	- Focus in Ocean Instrumentation
 
-[Academic CV]()
 
 ---
 ### Work Experience
-
+**Naval Undersea Warfare Center (NUWC)** 2019-2020 Mechanical Engineer
 
 ---
 ### Recent projects
 
-1. [k_eff in the sea ice zone](https://github.com/bloose/keff_in_SeaIceZone)
-2. [Backfit algorithm in Python](https://github.com/bloose/Python_GAM_Backfit)
+1. Bio-Avoidance of Remotely Operated Vehicles (ROVs)
+2. Fiber Optic Distributed Temperature Sensing
 
 
 ---
