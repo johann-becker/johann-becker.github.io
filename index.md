@@ -11,10 +11,21 @@
 [Academic CV](pdf/Academic_CV.pdf)
 
 ---
+### Current projects
+
+1. Bio-Avoidance of Remotely Operated Vehicles (ROVs)
+2. Applied Fiber Optic Distributed Temperature Sensing
+
+---
 ### Work Experience
-- Naval Undersea Warfare Center (NUWC) Newport, RI
+
+- **Naval Undersea Warfare Center (NUWC)** Newport, RI
 	- Mechanical Engineer
-- University of Rhode Island Kingston, RI
+	
+- **National Ocean and Atmospheric Administration (NOAA)** Pearl Harbor, HI
+	- Hawaiian Monk Seal Research Program: Hollings Scholar
+	
+- **University of Rhode Island** Kingston, RI
 	- Inner Space Center Watchstander
 	- Resident Academic Mentor
 	- Physics Tutor
@@ -22,14 +33,9 @@
 	- Research Assistant: Dr. Brennan Phillips
 	- Research Assistant: Dr. Jacqueline Webb
 	- Research Assistant: Dr. Bradley Wetherbee
-- National Ocean and Atmospheric Administration (NOAA) Pearl Harbor, HI
-	- Hawaiian Monk Seal Research Program: Hollings Scholar
 
----
-### Current projects
 
-1. Bio-Avoidance of Remotely Operated Vehicles (ROVs)
-2. Applied Fiber Optic Distributed Temperature Sensing
+
 
 
 ---
