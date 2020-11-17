@@ -8,7 +8,7 @@
 - MS University of Rhode Island (In Progress): Ocean Engineering
 	- Focus on Ocean Instrumentation
 
-[Academic CV]("/pdf/Academic_CV.pdf)
+[Academic CV]("/pdf/Academic_CV.pdf")
 
 ---
 ### Work Experience
